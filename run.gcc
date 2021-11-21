@@ -1,0 +1,6 @@
+src=run.cpp
+out=run
+gcc=g++
+libs="-lmicrohttpd -lcurl"
+$gcc -o $out $src $libs
+

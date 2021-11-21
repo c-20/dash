@@ -1,0 +1,6 @@
+src=mkwin.c
+out=mkwin.exe
+gcc=g++
+$gcc -o $out $src
+
+
