@@ -1,0 +1,74 @@
+Retrying.
+
+--2021-12-14 21:31:54--  (try: 3)  http://192.168.1.1:8088/Mozi.a
+Connecting to 192.168.1.1:8088... failed: Connection timed out.
+Retrying.
+
+--2021-12-14 21:34:07--  (try: 4)  http://192.168.1.1:8088/Mozi.a
+Connecting to 192.168.1.1:8088... failed: Connection timed out.
+Retrying.
+
+--2021-12-14 21:36:21--  (try: 5)  http://192.168.1.1:8088/Mozi.a
+Connecting to 192.168.1.1:8088... failed: Connection timed out.
+Retrying.
+
+--2021-12-14 21:38:35--  (try: 6)  http://192.168.1.1:8088/Mozi.a
+Connecting to 192.168.1.1:8088... failed: Connection timed out.
+Retrying.
+
+--2021-12-14 21:40:51--  (try: 7)  http://192.168.1.1:8088/Mozi.a
+Connecting to 192.168.1.1:8088... failed: Connection timed out.
+Retrying.
+
+--2021-12-14 21:43:07--  (try: 8)  http://192.168.1.1:8088/Mozi.a
+Connecting to 192.168.1.1:8088... failed: Connection timed out.
+Retrying.
+
+--2021-12-14 21:45:24--  (try: 9)  http://192.168.1.1:8088/Mozi.a
+Connecting to 192.168.1.1:8088... failed: Connection timed out.
+Retrying.
+
+--2021-12-14 21:47:44--  (try:10)  http://192.168.1.1:8088/Mozi.a
+Connecting to 192.168.1.1:8088... failed: Connection timed out.
+Retrying.
+
+--2021-12-14 21:50:03--  (try:11)  http://192.168.1.1:8088/Mozi.a
+Connecting to 192.168.1.1:8088... failed: Connection timed out.
+Retrying.
+
+--2021-12-14 21:52:23--  (try:12)  http://192.168.1.1:8088/Mozi.a
+Connecting to 192.168.1.1:8088... failed: Connection timed out.
+Retrying.
+
+--2021-12-14 21:54:43--  (try:13)  http://192.168.1.1:8088/Mozi.a
+Connecting to 192.168.1.1:8088... failed: Connection timed out.
+Retrying.
+
+--2021-12-14 21:57:03--  (try:14)  http://192.168.1.1:8088/Mozi.a
+Connecting to 192.168.1.1:8088... failed: Connection timed out.
+Retrying.
+
+--2021-12-14 21:59:23--  (try:15)  http://192.168.1.1:8088/Mozi.a
+Connecting to 192.168.1.1:8088... failed: Connection timed out.
+Retrying.
+
+--2021-12-14 22:01:42--  (try:16)  http://192.168.1.1:8088/Mozi.a
+Connecting to 192.168.1.1:8088... failed: Connection timed out.
+Retrying.
+
+--2021-12-14 22:04:02--  (try:17)  http://192.168.1.1:8088/Mozi.a
+Connecting to 192.168.1.1:8088... failed: Connection timed out.
+Retrying.
+
+--2021-12-14 22:06:22--  (try:18)  http://192.168.1.1:8088/Mozi.a
+Connecting to 192.168.1.1:8088... failed: Connection timed out.
+Retrying.
+
+--2021-12-14 22:08:42--  (try:19)  http://192.168.1.1:8088/Mozi.a
+Connecting to 192.168.1.1:8088... failed: Connection timed out.
+Retrying.
+
+--2021-12-14 22:11:02--  (try:20)  http://192.168.1.1:8088/Mozi.a
+Connecting to 192.168.1.1:8088... failed: Connection timed out.
+Giving up.
+
